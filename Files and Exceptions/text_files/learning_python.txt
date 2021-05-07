@@ -1,0 +1,4 @@
+In Python you can write dynamic codes.
+In Python you can build web applications.
+In Python you can write AI applications.
+In Python you can create cross platform applications. 
